@@ -2,4 +2,4 @@ Barebones kde with only the minimum. Libre Office, Scanner app, Thunderbird Mail
 
 
 
-Daily run automtic systemupgrade and garbage deletion if older than 20 days.
+Daily run 6 pm automtic systemupgrade and garbage deletion if older than 20 days.
